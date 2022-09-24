@@ -232,152 +232,152 @@ Dveře se rozlétly. Ignacy na něj už ve dveřích vysypal své zásoby, všec
 
 * * *
 
-_[1](./resources/undefined) Něco podobného naposledy prožíval se zvířetem, s kočkou, kterou jednoduše pojmenoval podle její barvy. Přinesl kočku do bytu, postavil ji na zem. Začal se na ni dívat, ale dlouho to nevydržel. Došel do kuchyně, došel do druhého pokoje. Ať byl kočce z dohledu, nebo na dohled, nevnímal ji. Byl přesvědčený o tom, že jak kočce, tak jemu prospěje chvíle neutrality. S prvním dalším pohledem se rozezní soužití s tisíciletou tradicí, myslel si. Když se na kočku znovu podíval, nezaznělo nic. Stála tam a lízala si tlapky. Mezi kočkou a lampou v tu chvíli nebyl žádný rozdíl. Byla dojemná a agresivní, řekl mi._
+[1](./resources/undefined) Něco podobného naposledy prožíval se zvířetem, s kočkou, kterou jednoduše pojmenoval podle její barvy. Přinesl kočku do bytu, postavil ji na zem. Začal se na ni dívat, ale dlouho to nevydržel. Došel do kuchyně, došel do druhého pokoje. Ať byl kočce z dohledu, nebo na dohled, nevnímal ji. Byl přesvědčený o tom, že jak kočce, tak jemu prospěje chvíle neutrality. S prvním dalším pohledem se rozezní soužití s tisíciletou tradicí, myslel si. Když se na kočku znovu podíval, nezaznělo nic. Stála tam a lízala si tlapky. Mezi kočkou a lampou v tu chvíli nebyl žádný rozdíl. Byla dojemná a agresivní, řekl mi.
 
-_[2](./resources/undefined) Vzpomněl si na kočku._
+[2](./resources/undefined) Vzpomněl si na kočku.
 
-_[3](./resources/undefined) Na konferenci._
+[3](./resources/undefined) Na konferenci.
 
-_[4](./resources/undefined) Pozdní červen, začínající léto, jeden z vrcholů turistické sezóny._
+[4](./resources/undefined) Pozdní červen, začínající léto, jeden z vrcholů turistické sezóny.
 
-_[5](./resources/undefined) Svůj poslední seminář organizoval u Máchova jezera. Přednášel, uplatňoval znalosti získané po čas studia a po čas několika let právní praxe, ale úroveň tohoto semináře byla tak nízká, že ze semináře odešel. Dodnes vzpomíná na procházku kolem Máchova jezera. Podzim, na písečné pláži nikoho nepotkal. V seminární místnosti jen kousek od písečné pláže se Romové hlásili o slovo, zvedali ruce a pokládali důležité otázky, ale já jsem je už nemohl zodpovědět, nebyl jsem v seminární místnosti, řekl mi, procházel jsem se kolem jezera a neodpovídal jsem. Jezero mu vyčistilo hlavu. Vnímal barvy přírody, tak odlišné od barev, které vídal v seminárních místnostech. Umělé světlo v seminárních místnostech mu roky vnucovalo seminární stolky, věci osvětlené umělým světlem na něj roky útočily svojí nepřirozeností, roky s nimi bojoval, kouřil. Na pláži u Máchova jezera se uklidnil. Přestože o okolí Máchova jezera ani o jezeře samotném nelze říct, že by v okolí jezera či na jezeře nestálo očím nic v cestě, přestože prý lze říct, že okolí Máchova jezera a Máchovo jezero v tomto smyslu dokonce připomínají seminární místnosti, vzrostlé stromy, uzavírající jezero, prý do jisté míry připomínají zdi seminárních místností, hladina jezera prý do jisté míry připomíná hladinu seminárních stolků, ptáci plovoucí po hladině jezera prý připomínají poznámkové bloky položené na seminárních stolcích, propisovací tužky a šálky s kávou, přesto prý měl při pohledu na Máchovo jezero a při pohledu na okolí Máchova jezera pocit volnosti. Vrátil se do seminární místnosti. Pokračoval v přednášení tam, kde přestal. Ale myslel už jsem na něco jiného, řekl mi. Přednášel jinak. Nařízení v druhé části přerušené přednášky znamenalo nařízení. V druhé části mé přednášky už nařízení neznamenalo, že je třeba nařízení dále vysvětlit, řekl mi. Během přestávky na kávu se posadil stranou a sledoval skupiny diskutujících. Seděl v křesle a připíjel si s Romy, připíjel si s nimi na dálku, nejen přes celé předsálí konferenční místnosti. Pokládali mu z druhého konce předsálí směšné otázky. Přiložil ruku k uchu, ale ihned dal ruku dolů a připil si. Nechtěl Romy urazit. Chtěl jsem, aby se neurazili, ale jinak jsem po nich nechtěl nic, řekl mi. Pokud by si byl jistý, že jeho přirovnání pochopím správně, stoprocentně, prý by mi řekl, že před těmito lidmi stál jako před klecí s barevnými ptáky._
+[5](./resources/undefined) Svůj poslední seminář organizoval u Máchova jezera. Přednášel, uplatňoval znalosti získané po čas studia a po čas několika let právní praxe, ale úroveň tohoto semináře byla tak nízká, že ze semináře odešel. Dodnes vzpomíná na procházku kolem Máchova jezera. Podzim, na písečné pláži nikoho nepotkal. V seminární místnosti jen kousek od písečné pláže se Romové hlásili o slovo, zvedali ruce a pokládali důležité otázky, ale já jsem je už nemohl zodpovědět, nebyl jsem v seminární místnosti, řekl mi, procházel jsem se kolem jezera a neodpovídal jsem. Jezero mu vyčistilo hlavu. Vnímal barvy přírody, tak odlišné od barev, které vídal v seminárních místnostech. Umělé světlo v seminárních místnostech mu roky vnucovalo seminární stolky, věci osvětlené umělým světlem na něj roky útočily svojí nepřirozeností, roky s nimi bojoval, kouřil. Na pláži u Máchova jezera se uklidnil. Přestože o okolí Máchova jezera ani o jezeře samotném nelze říct, že by v okolí jezera či na jezeře nestálo očím nic v cestě, přestože prý lze říct, že okolí Máchova jezera a Máchovo jezero v tomto smyslu dokonce připomínají seminární místnosti, vzrostlé stromy, uzavírající jezero, prý do jisté míry připomínají zdi seminárních místností, hladina jezera prý do jisté míry připomíná hladinu seminárních stolků, ptáci plovoucí po hladině jezera prý připomínají poznámkové bloky položené na seminárních stolcích, propisovací tužky a šálky s kávou, přesto prý měl při pohledu na Máchovo jezero a při pohledu na okolí Máchova jezera pocit volnosti. Vrátil se do seminární místnosti. Pokračoval v přednášení tam, kde přestal. Ale myslel už jsem na něco jiného, řekl mi. Přednášel jinak. Nařízení v druhé části přerušené přednášky znamenalo nařízení. V druhé části mé přednášky už nařízení neznamenalo, že je třeba nařízení dále vysvětlit, řekl mi. Během přestávky na kávu se posadil stranou a sledoval skupiny diskutujících. Seděl v křesle a připíjel si s Romy, připíjel si s nimi na dálku, nejen přes celé předsálí konferenční místnosti. Pokládali mu z druhého konce předsálí směšné otázky. Přiložil ruku k uchu, ale ihned dal ruku dolů a připil si. Nechtěl Romy urazit. Chtěl jsem, aby se neurazili, ale jinak jsem po nich nechtěl nic, řekl mi. Pokud by si byl jistý, že jeho přirovnání pochopím správně, stoprocentně, prý by mi řekl, že před těmito lidmi stál jako před klecí s barevnými ptáky.
 
-_[6](./resources/undefined) Když se dověděl, že Edita Farkaš je Maďarka, obrátil. Paprika je hrdou královnou flóry, řekl mi. Národ, v němž se rodí spisovatelé se jmény Imre a Sándor, musí být úplné jiný národ než ten, v němž se rodí spisovatelé se jmény Milan a Bohumil._
+[6](./resources/undefined) Když se dověděl, že Edita Farkaš je Maďarka, obrátil. Paprika je hrdou královnou flóry, řekl mi. Národ, v němž se rodí spisovatelé se jmény Imre a Sándor, musí být úplné jiný národ než ten, v němž se rodí spisovatelé se jmény Milan a Bohumil.
 
-_[7](./resources/undefined) Záplavy tehdy netrpělivě očekával, pamatuje si, že pár hodin před tím, než kulminovala povodňová vlna, už v záplavy ani nevěřil. Stál spolu s ostatními lidmi na břehu řeky a pozoroval, že hladina je podstatně zvýšená, ale byl spolu s ostatními přesvědčen, že není zvýšená dostatečně. Stáli na břehu a zklamaně se dívali do koryta, řeka se jim zdála líná. Hladina byla dostatečně zvýšená na to, aby způsobila něco zásadního z hlediska krajiny a nemovitostí, ale nebyla dost zvýšená na to, aby způsobila něco zásadního z hlediska jejich bytí. Viděli, že hladina je dostatečné zvýšená na to, aby zatopila sklepy domů, ale tam možnosti takto zvýšené hladiny končily, řekl mi, vysvobozující akt se od této hladiny čekat nedal. Přestože povodňová vlna nakonec přece jen kulminovala a páchala škody, zaplavila nejen sklepy domů, ale v některých místech vše, co se nacházelo několik metrů nad úrovní chodníku, v našem druhém závěru, řekl mi, v závěru, na němž nám záleželo nejvíc, jsme se nepletli. Stáli po kotníky ve vodě před svými nemovitostmi, ale voda brzy opadla. A vrátili jsme se domů, řekl mi._
+[7](./resources/undefined) Záplavy tehdy netrpělivě očekával, pamatuje si, že pár hodin před tím, než kulminovala povodňová vlna, už v záplavy ani nevěřil. Stál spolu s ostatními lidmi na břehu řeky a pozoroval, že hladina je podstatně zvýšená, ale byl spolu s ostatními přesvědčen, že není zvýšená dostatečně. Stáli na břehu a zklamaně se dívali do koryta, řeka se jim zdála líná. Hladina byla dostatečně zvýšená na to, aby způsobila něco zásadního z hlediska krajiny a nemovitostí, ale nebyla dost zvýšená na to, aby způsobila něco zásadního z hlediska jejich bytí. Viděli, že hladina je dostatečné zvýšená na to, aby zatopila sklepy domů, ale tam možnosti takto zvýšené hladiny končily, řekl mi, vysvobozující akt se od této hladiny čekat nedal. Přestože povodňová vlna nakonec přece jen kulminovala a páchala škody, zaplavila nejen sklepy domů, ale v některých místech vše, co se nacházelo několik metrů nad úrovní chodníku, v našem druhém závěru, řekl mi, v závěru, na němž nám záleželo nejvíc, jsme se nepletli. Stáli po kotníky ve vodě před svými nemovitostmi, ale voda brzy opadla. A vrátili jsme se domů, řekl mi.
 
-_[8](./resources/undefined) Řekl Ignacymu, že pokud by ho nepotkal s Editou Farkaš v Královské oboře, už by se s ním nevídal, jeho život je mu cizí._
+[8](./resources/undefined) Řekl Ignacymu, že pokud by ho nepotkal s Editou Farkaš v Královské oboře, už by se s ním nevídal, jeho život je mu cizí.
 
-_[9](./resources/undefined) Seděli tehdy na stohu v překrásné jihočeské krajině, Ignacy, on a jeho žena. Ignacy je začal popichovat, sázel se, že se před svoji ženu nepoloží. Položil se před ni a brzy bylo vše stejné jako jindy, rty své ženy by poznal mezi tisíci jiných rtů, jazyk své ženy by s žádným jiným nezaměnil._
+[9](./resources/undefined) Seděli tehdy na stohu v překrásné jihočeské krajině, Ignacy, on a jeho žena. Ignacy je začal popichovat, sázel se, že se před svoji ženu nepoloží. Položil se před ni a brzy bylo vše stejné jako jindy, rty své ženy by poznal mezi tisíci jiných rtů, jazyk své ženy by s žádným jiným nezaměnil.
 
-_[10](./resources/undefined) O důvodech, proč ji do nemocnice odvážel Ignacy._
+[10](./resources/undefined) O důvodech, proč ji do nemocnice odvážel Ignacy.
 
-_[11](./resources/undefined) O předání technického průkazu, o otevření brány, o domáckém oblečení, o pohodlnosti, o nespravedlnosti, o neústupnosti, o tom, kdo všechno měl kvůli milostnému aktu na stohu slámy jenom problémy, o tom, kdo z milostného aktu neměl vůbec nic._
+[11](./resources/undefined) O předání technického průkazu, o otevření brány, o domáckém oblečení, o pohodlnosti, o nespravedlnosti, o neústupnosti, o tom, kdo všechno měl kvůli milostnému aktu na stohu slámy jenom problémy, o tom, kdo z milostného aktu neměl vůbec nic.
 
-_[12](./resources/undefined) O tom, že Ignacy několik prvních kilometrů mlčel, soustředil se na řízení._
+[12](./resources/undefined) O tom, že Ignacy několik prvních kilometrů mlčel, soustředil se na řízení.
 
-_[13](./resources/undefined) O tom, že několik prvních kilometrů spotřebovávali zbytečně moc paliva a jeli se zapnutými dálkovými světly._
+[13](./resources/undefined) O tom, že několik prvních kilometrů spotřebovávali zbytečně moc paliva a jeli se zapnutými dálkovými světly.
 
-_[14](./resources/undefined) O tom, že Ignacyho reakce na trapnost prvních několika kilometrů mohla být taková i taková._
+[14](./resources/undefined) O tom, že Ignacyho reakce na trapnost prvních několika kilometrů mohla být taková i taková.
 
-_[15](./resources/undefined) O tom, že mohla Ignacymu říct Přepni dálková světla na potkávací._
+[15](./resources/undefined) O tom, že mohla Ignacymu říct Přepni dálková světla na potkávací.
 
-_[16](./resources/undefined) O tom, že mohl přepnout dálková světla na potkávací._
+[16](./resources/undefined) O tom, že mohl přepnout dálková světla na potkávací.
 
-_[17](./resources/undefined) O tom, že Ignacyho reakce mohla být také opačná._
+[17](./resources/undefined) O tom, že Ignacyho reakce mohla být také opačná.
 
-_[18](./resources/undefined) O tom, že mohl místo přepnutí dálkových světel uhodit do palubní desky._
+[18](./resources/undefined) O tom, že mohl místo přepnutí dálkových světel uhodit do palubní desky.
 
-_[19](./resources/undefined) O tom, že se mohl pokusit překrýt svůj nelichotivý obraz přehnanou agre­sivitou._
+[19](./resources/undefined) O tom, že se mohl pokusit překrýt svůj nelichotivý obraz přehnanou agre­sivitou.
 
-_[20](./resources/undefined) O tom, že silnice je prvních několik kilometrů nepřehledná a les stojí přímo u krajnice._
+[20](./resources/undefined) O tom, že silnice je prvních několik kilometrů nepřehledná a les stojí přímo u krajnice.
 
-_[21](./resources/undefined) O tom, že stačí chvíle nepozornosti._
+[21](./resources/undefined) O tom, že stačí chvíle nepozornosti.
 
-_[22](./resources/undefined) O tom, že by stačilo jedno přehnaně agresivní uhození do palubní desky a mohl je oba zabít._
+[22](./resources/undefined) O tom, že by stačilo jedno přehnaně agresivní uhození do palubní desky a mohl je oba zabít.
 
-_[23](./resources/undefined) O tom, že by to byl nesmysl._
+[23](./resources/undefined) O tom, že by to byl nesmysl.
 
-_[24](./resources/undefined) O tom, že hlasitě polykala, odkašlávala._
+[24](./resources/undefined) O tom, že hlasitě polykala, odkašlávala.
 
-_[25](./resources/undefined) O tom, že Ignacy na okresní silnici začal rozebírat otázku, kdo by v tu chvíli měl sedět vedle ní._
+[25](./resources/undefined) O tom, že Ignacy na okresní silnici začal rozebírat otázku, kdo by v tu chvíli měl sedět vedle ní.
 
-_[26](./resources/undefined) O tom, co přesně jí řekl. – Teď by vedle tebe měl sedět někdo jiný, řekl jí._
+[26](./resources/undefined) O tom, co přesně jí řekl. – Teď by vedle tebe měl sedět někdo jiný, řekl jí.
 
-_[27](./resources/undefined) O tom, že tušila, že Ignacy začne právě tím._
+[27](./resources/undefined) O tom, že tušila, že Ignacy začne právě tím.
 
-_[28](./resources/undefined) O tom, že Ignacymu evidentně nešlo o to, kdo vedle ní měl sedět, ale o to, kdo měl řídit._
+[28](./resources/undefined) O tom, že Ignacymu evidentně nešlo o to, kdo vedle ní měl sedět, ale o to, kdo měl řídit.
 
-_[29](./resources/undefined) O tom, že s ním souhlasila._
+[29](./resources/undefined) O tom, že s ním souhlasila.
 
-_[30](./resources/undefined) O tom, co přesně mu řekla. – Ano, teď by měl řídit někdo jiný, řekla mu._
+[30](./resources/undefined) O tom, co přesně mu řekla. – Ano, teď by měl řídit někdo jiný, řekla mu.
 
-_[31](./resources/undefined) O tom, že mu tím pomohla zmírnit trapnost několika prvních kilometrů._
+[31](./resources/undefined) O tom, že mu tím pomohla zmírnit trapnost několika prvních kilometrů.
 
-_[32](./resources/undefined) O tom, že na okresní silnici už si na cizí auto zvykl._
+[32](./resources/undefined) O tom, že na okresní silnici už si na cizí auto zvykl.
 
-_[33](./resources/undefined) O tom, že na okresní silnici začal mluvit o motoru a o řazení rychlostních stupňů._
+[33](./resources/undefined) O tom, že na okresní silnici začal mluvit o motoru a o řazení rychlostních stupňů.
 
-_[34](./resources/undefined) O tom, co přesně jí řekl. – Druhý rychlostní stupeň je příliš krátký, řekl jí._
+[34](./resources/undefined) O tom, co přesně jí řekl. – Druhý rychlostní stupeň je příliš krátký, řekl jí.
 
-_[35](./resources/undefined) O tom, že když si na auto zvykl, chtěl vědět, co je pod kapotou._
+[35](./resources/undefined) O tom, že když si na auto zvykl, chtěl vědět, co je pod kapotou.
 
-_[36](./resources/undefined) O tom, co přesněji řekl. – Podíváme se, co je pod kapotou, řekl jí._
+[36](./resources/undefined) O tom, co přesněji řekl. – Podíváme se, co je pod kapotou, řekl jí.
 
-_[37](./resources/undefined) O tom, že začal nebezpečně předjíždět._
+[37](./resources/undefined) O tom, že začal nebezpečně předjíždět.
 
-_[38](./resources/undefined) O tom, že ho požádala, aby zpomalil._
+[38](./resources/undefined) O tom, že ho požádala, aby zpomalil.
 
-_[39](./resources/undefined) O tom, že Ignacy zpomalil._
+[39](./resources/undefined) O tom, že Ignacy zpomalil.
 
-_[40](./resources/undefined) O tom, že mu evidentně nešlo o zážitek z rychlé jízdy._
+[40](./resources/undefined) O tom, že mu evidentně nešlo o zážitek z rychlé jízdy.
 
-_[41](./resources/undefined) O tom, že v areálu nemocnice se choval sebejistě._
+[41](./resources/undefined) O tom, že v areálu nemocnice se choval sebejistě.
 
-_[42](./resources/undefined) O tom, že lidé Pohotovost – Úrazy zneužívají._
+[42](./resources/undefined) O tom, že lidé Pohotovost – Úrazy zneužívají.
 
-_[43](./resources/undefined) O tom, že lidé si slovo pohotovost záměrně špatně vykládají._
+[43](./resources/undefined) O tom, že lidé si slovo pohotovost záměrně špatně vykládají.
 
-_[44](./resources/undefined) O tom, že lidé si slovo pohotovost vyloží podle sebe, vyloží si ho tak, že vyžadují okamžitou pomoc._
+[44](./resources/undefined) O tom, že lidé si slovo pohotovost vyloží podle sebe, vyloží si ho tak, že vyžadují okamžitou pomoc.
 
-_[45](./resources/undefined) O tom, že slovo pohotovost ve spojení Pohotovost – Úrazy neznamená, že okamžitou pomoc vyžadují pacienti._
+[45](./resources/undefined) O tom, že slovo pohotovost ve spojení Pohotovost – Úrazy neznamená, že okamžitou pomoc vyžadují pacienti.
 
-_[46](./resources/undefined) O tom, že slovo pohotovost znamená, že okamžitou pomoc vyžaduje jejich zdravotní stav._
+[46](./resources/undefined) O tom, že slovo pohotovost znamená, že okamžitou pomoc vyžaduje jejich zdravotní stav.
 
-_[47](./resources/undefined) O tom, že jejich zdravotní stav okamžitou pomoc nevyžadoval._
+[47](./resources/undefined) O tom, že jejich zdravotní stav okamžitou pomoc nevyžadoval.
 
-_[48](./resources/undefined) O tom, že lékař v jejím krku nic nenašel._
+[48](./resources/undefined) O tom, že lékař v jejím krku nic nenašel.
 
-_[49](./resources/undefined) O tom, co přesně jí řekl. – Pravděpodobně jen škrábnutí, řekl jí._
+[49](./resources/undefined) O tom, co přesně jí řekl. – Pravděpodobně jen škrábnutí, řekl jí.
 
-_[50](./resources/undefined) O tom, že Ignacymu řekla, že už mohou jít._
+[50](./resources/undefined) O tom, že Ignacymu řekla, že už mohou jít.
 
-_[51](./resources/undefined) O tom, co přesně mu řekla a na co přesně se ho zeptala. – Všechno už je v pořádku, můžeme jít, řekla mu, na co čekáme, zeptala se ho._
+[51](./resources/undefined) O tom, co přesně mu řekla a na co přesně se ho zeptala. – Všechno už je v pořádku, můžeme jít, řekla mu, na co čekáme, zeptala se ho.
 
-_[52](./resources/undefined) O tom, že čekali na Ignacyho._
+[52](./resources/undefined) O tom, že čekali na Ignacyho.
 
-_[53](./resources/undefined) O tom, že je Ignacy zdržoval v areálu nemocnice._
+[53](./resources/undefined) O tom, že je Ignacy zdržoval v areálu nemocnice.
 
-_[54](./resources/undefined) O Ignacyho nesmyslném návrhu jít k řece._
+[54](./resources/undefined) O Ignacyho nesmyslném návrhu jít k řece.
 
-_[55](./resources/undefined) O tom, co přesně mu na ten nesmyslný návrh řekla. – Platit před nemocnicí parkovné a jít kamkoli jinam než do nemocnice nedává smysl, řekla mu._
+[55](./resources/undefined) O tom, co přesně mu na ten nesmyslný návrh řekla. – Platit před nemocnicí parkovné a jít kamkoli jinam než do nemocnice nedává smysl, řekla mu.
 
-_[56](./resources/undefined) O tom, co přesně jí na to řekl. – Nepřijel jsem do města proto, abych stál v ne­mocnici, řekl jí, přeparkujeme k řece, do nemocnice ať s tebou jde někdo jiný, řekl jí._
+[56](./resources/undefined) O tom, co přesně jí na to řekl. – Nepřijel jsem do města proto, abych stál v ne­mocnici, řekl jí, přeparkujeme k řece, do nemocnice ať s tebou jde někdo jiný, řekl jí.
 
-_[57](./resources/undefined) O tom, že to odmítla._
+[57](./resources/undefined) O tom, že to odmítla.
 
-_[58](./resources/undefined) O tom, že chtěla zaplatit parkovné a jet._
+[58](./resources/undefined) O tom, že chtěla zaplatit parkovné a jet.
 
-_[59](./resources/undefined) O tom, že Ignacy otevřel dveře a otočil se k autu zády._
+[59](./resources/undefined) O tom, že Ignacy otevřel dveře a otočil se k autu zády.
 
-_[60](./resources/undefined) O tom, že klekla kolenem na sedačku, natáhla se pro parkovací lístek._
+[60](./resources/undefined) O tom, že klekla kolenem na sedačku, natáhla se pro parkovací lístek.
 
-_[61](./resources/undefined) O tom, že došla k parkovacímu stojanu a zaplatila._
+[61](./resources/undefined) O tom, že došla k parkovacímu stojanu a zaplatila.
 
-_[62](./resources/undefined) O tom, že Ignacy čekal v autě se spuštěným motorem._
+[62](./resources/undefined) O tom, že Ignacy čekal v autě se spuštěným motorem.
 
-_[63](./resources/undefined) O tom, že si sedla a přibouchla dveře._
+[63](./resources/undefined) O tom, že si sedla a přibouchla dveře.
 
-_[64](./resources/undefined) O tom, co přesně mu řekla, když seděli v autě. – Můžeme, řekla mu._
+[64](./resources/undefined) O tom, co přesně mu řekla, když seděli v autě. – Můžeme, řekla mu.
 
-_[65](./resources/undefined) O tom, co přesně mu řekla, když dál mlčel. – Musíme do stojanu vedle spuš­těné brány zasunout doklad o zaplacení, řekla mu, jinak neodjedeme._
+[65](./resources/undefined) O tom, co přesně mu řekla, když dál mlčel. – Musíme do stojanu vedle spuš­těné brány zasunout doklad o zaplacení, řekla mu, jinak neodjedeme.
 
-_[66](./resources/undefined) O tom, co přesně mu řekla, když dál mlčel. – Stojan je na tvé straně, řekla mu a podala mu doklad o zaplacení._
+[66](./resources/undefined) O tom, co přesně mu řekla, když dál mlčel. – Stojan je na tvé straně, řekla mu a podala mu doklad o zaplacení.
 
-_[67](./resources/undefined) O tom, že Ignacy odmítl._
+[67](./resources/undefined) O tom, že Ignacy odmítl.
 
-_[68](./resources/undefined) O tom, že vystoupila, chtěla auto obejít zezadu, ale řidič stojící za nimi po­pojel a přilepil se na jejich nárazník._
+[68](./resources/undefined) O tom, že vystoupila, chtěla auto obejít zezadu, ale řidič stojící za nimi po­pojel a přilepil se na jejich nárazník.
 
-_[69](./resources/undefined) O tom, že musela projít před Ignacym._
+[69](./resources/undefined) O tom, že musela projít před Ignacym.
 
-_[70](./resources/undefined) O tom, že se bála, že ji bude chtít srazit._
+[70](./resources/undefined) O tom, že se bála, že ji bude chtít srazit.
 
-_[71](./resources/undefined) O tom, že jí bylo pouhých dvacet dva let._
+[71](./resources/undefined) O tom, že jí bylo pouhých dvacet dva let.
 
-_[72](./resources/undefined) O tom, že byla ještě pořád dítě._
+[72](./resources/undefined) O tom, že byla ještě pořád dítě.
 
-_[73](./resources/undefined) O tom, že dvaadvacetileté dítě si nemá gratulovat, že ho nikdo nezabil._
+[73](./resources/undefined) O tom, že dvaadvacetileté dítě si nemá gratulovat, že ho nikdo nezabil.
 
-_[74](./resources/undefined) Edita Farkaš si četla v The Roma Rights Quarterly._
+[74](./resources/undefined) Edita Farkaš si četla v The Roma Rights Quarterly.
 
 </section>
