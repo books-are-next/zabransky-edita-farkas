@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zabransky-edita-farkas-af200a5",
-  "revision": "af200a5",
+  "identifier": "zabransky-edita-farkas-29e3395",
+  "revision": "29e3395",
   "readingOrder": [
     "promo.html",
     "edita_farkas_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Sep 24 2022 10:40:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664016005745
+    "date": "Thu Sep 29 2022 21:40:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487631864
   },
   "documents": [
     {
@@ -35,9 +35,9 @@
     {
       "title": "Edita Farkaš",
       "file": "edita_farkas_005.html",
-      "words": 12115,
-      "chars": 70843,
-      "ideas": 113,
+      "words": 11244,
+      "chars": 66305,
+      "ideas": 49,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -75,14 +75,14 @@
   ],
   "totals": {
     "all": {
-      "words": 12251,
-      "chars": 71731,
-      "ideas": 132
+      "words": 11380,
+      "chars": 67193,
+      "ideas": 68
     },
     "chapters": {
-      "words": 12115,
-      "chars": 70843,
-      "ideas": 113
+      "words": 11244,
+      "chars": 66305,
+      "ideas": 49
     }
   }
 }
