@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zabransky-edita-farkas-813c0b4",
-  "revision": "813c0b4",
+  "identifier": "zabransky-edita-farkas-ddba11f",
+  "revision": "ddba11f",
   "readingOrder": [
     "promo.html",
     "edita_farkas_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:52:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909550625
+    "date": "Tue Oct 04 2022 23:09:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924967703
   },
   "documents": [
     {
