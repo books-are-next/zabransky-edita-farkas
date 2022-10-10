@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zabransky-edita-farkas-b404266",
-  "revision": "b404266",
+  "identifier": "zabransky-edita-farkas-abb19c8",
+  "revision": "abb19c8",
   "readingOrder": [
     "promo.html",
     "edita_farkas_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:48:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150524295
+    "date": "Mon Oct 10 2022 15:40:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416439105
   },
   "documents": [
     {
@@ -56,7 +56,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 128,
-      "chars": 850,
+      "chars": 851,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -76,7 +76,7 @@
   "totals": {
     "all": {
       "words": 11378,
-      "chars": 67193,
+      "chars": 67194,
       "ideas": 66
     },
     "chapters": {
