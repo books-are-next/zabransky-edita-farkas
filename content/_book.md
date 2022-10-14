@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2815-1
 readingOrder:
   - promo.html
   - edita_farkas_005.html
